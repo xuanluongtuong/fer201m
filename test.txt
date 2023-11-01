@@ -1,0 +1,44 @@
+1. Which annotation is used for a method in DAO component to edit an object in Room database -> @update
+2.This statement is correct or not: 
+The RecyclerView can display the list of items by vertical, horizontal and gridlayout -> True
+3. How many times does method onCreateViewHolder loop -> Depend on the retired value at getlemCount.//
+4. What is the purpose of the PendingIntent in Android notifications ->It allows an action to be executed when the notification is clicked//
+5. How can you create a Room Database instance in your android app?-> By using the Room.databaseBuilder() method
+6.Room database class is used to save data in which format?
+=>table
+7.when set small icon for a notification,what happen when we use icon format .xml?
+=> The icon is displayed normally.
+8.what is the typical URI format for accessing data from a content provider?
+=>Content://
+9.when use a recyclerview before set adapter for the recycler you must?
+=> setLayoutManager
+10.which one is not an android service -> binder service
+11.in android, what is the main advantage… content Provider-> it allows data to be shared between app securely
+12.When using AsyncTask in Android, you can update the UI in the following method -> onProgressUpdate
+13.What is Room in Android?->A persistence library for managing SQLite databases.
+14.A service can handle: -> A. Network transactions
+15.Using the SQLite APls directly has compile-time verification of SQL queries-> False
+16.By using SharedPreferences, the data is saved in which format? -> .xml file
+17. what is the purpose of the content resolver class in android?
+-> to query and manipulate data within a content provider
+18.Which method is called first when press to soft back button of android device? A.finish()
+19.which statement is not a method of asyntask? => doOnBackgroud
+20.what is the purpose of the view Holder pattern in RecyclerView?
+d.to improve the performance of recyclerview by recycling item views
+21.what is the purpose of a notification channel in android?
+a.to group notifications together based on their content
+22.What is the purpose of a notification channel in Android? -> To group notifications together based on their content.
+23. How the image will display when declare: android:scaleType = “CENTER"? ->Displays the image centered in the view with no scaling
+24. What is the primary difference between a Bound Service and a Started Service ->Bound Services can be bound to by multiple clients, while Started Services can't.
+25. What happens when a user denies a permission request in Android?
+-> The app's functionality relying on that permission may be restricted.
+26. Which Android version introduced the concept of runtime permissions?
+-> Android 6.0 (Marshmallow):
+27. What is NOT an activity lifetime? 
+-> Entire lifetime
+28. ln Android, what is the main thread also known as?
+-> UI thread
+29. what is the difference between android src and android background attribute for ImageView
+-> android:src sets the foreground image, and android:background sets the background image
+30. What is the purpose of the ContentResolver class in Android
+-> To query and manipulate data within a Content Provider
