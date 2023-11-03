@@ -97,7 +97,7 @@ const Movie = () => {
         });
       });
   };
-
+//config 6
   return (
     <div>
       <div>
