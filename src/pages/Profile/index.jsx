@@ -30,7 +30,7 @@ const typesUpdate = [
     description: "Quyền lợi đăng tối đa 20 phim trong 1 tháng",
   },
 ];
-
+//config 1
 const Profile = () => {
   const user = useSelector((state) => state.user);
   const dispatch = useDispatch();
