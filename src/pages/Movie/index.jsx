@@ -74,7 +74,7 @@ const Movie = () => {
         });
       });
   };
-
+//config 5
   const handleUpdateRate = () => {
     if (!uStar || !uComment || uComment?.trim() === "") {
       return;
