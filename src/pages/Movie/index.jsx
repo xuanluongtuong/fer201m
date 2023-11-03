@@ -44,6 +44,7 @@ const Movie = () => {
     });
   }, [id, user?.id]);
 
+  //config 3
   const avg = useMemo(() => {
     const total = rates.reduce((prev, cur) => prev + cur.star, 0);
     return total / rates.length;
