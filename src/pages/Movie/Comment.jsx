@@ -11,6 +11,7 @@ import { useSelector } from "react-redux";
 import Swal from "sweetalert2";
 import { BsFlag } from "react-icons/bs";
 
+//config 2
 const Comment = ({ rate, movie }) => {
   const [user, setUser] = useState(null);
   const currentUser = useSelector((state) => state.user);
