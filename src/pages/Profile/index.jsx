@@ -14,6 +14,8 @@ import { userApi } from "../../api/userApi";
 import { setUser } from "../../redux/store";
 import Swal from "sweetalert2";
 
+
+//config 
 const typesUpdate = [
   {
     id: 1,
