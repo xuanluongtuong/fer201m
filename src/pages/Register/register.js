@@ -8,7 +8,7 @@ export default function (){
     const [gender, setGender] = useState(1);
     return(
         <> 
-        <h1>Login</h1>
+       
         </>
     )
 }
