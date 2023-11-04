@@ -4,6 +4,7 @@ export default function home1(){
         <>
         <h1>home</h1>
         <h2>quan</h2>
+        <h2>quan</h2>
         </>
     )
 }
