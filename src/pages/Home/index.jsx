@@ -7,7 +7,7 @@ import CardMovie from "../../components/CardMovie";
 import { useEffect, useState } from "react";
 import { movieApi } from "../../api/movieApi";
 import { userApi } from "../../api/userApi";
-
+const home=1
 const Home = () => {
   const navigate = useNavigate();
   const [movies, setMovies] = useState([]);
